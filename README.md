@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My name is White Nguyen, a software engineer student at Thinkful. I'm currently learning about React and am enjoying this library a lot!
+- Working on my portfolio.
+- Learning about **DOM** and **React**!
+- My favorite projects are pinned down below.
+
+## 📫  Here is my linkedin: ![https://www.linkedin.com/in/white-nguyen-8503a1181/](https://user-images.githubusercontent.com/39269842/167966578-ce0b8c67-0574-40e3-bb28-5f5f011d2227.svg)
