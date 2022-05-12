@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - My favorite projects are pinned down below.
 
 ## 📫  Here is my linkedin: [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) | width=100px](https://www.linkedin.com/in/white-nguyen-8503a1181/)
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
