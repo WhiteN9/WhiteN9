@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Learning about **DOM** and **React**!
 - My favorite projects are pinned down below.
 
-## 📫  Here is my linkedin: [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/white-nguyen-8503a1181/)
+## 📫  Here is my linkedin: [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) | width=100](https://www.linkedin.com/in/white-nguyen-8503a1181/)
