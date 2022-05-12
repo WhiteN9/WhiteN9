@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **WhiteN9/WhiteN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My name is White Nguyen, a software engineer student at Thinkful. I'm currently learning about React and am enjoying this library a lot!
+# My name is White Nguyen, a software engineer student at Thinkful. I'm currently learning about React and am enjoying this library a lot!
 - Working on my portfolio.
 - Learning about **DOM** and **React**!
 - My favorite projects are pinned down below.
