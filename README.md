@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # My name is White Nguyen, a software engineer student at Thinkful. I'm currently learning about React and am enjoying this library a lot!
 - 🔭 Learning about **DOM** and **React**!
-- Working on my portfolio.
-- My favorite projects are pinned down below.
+- 💬 Working on my portfolio.
+- 😄 My favorite projects are pinned down below.
 
 ## 📫  Connect with me here:
 <p><a href="https://www.linkedin.com/in/white-nguyen-8503a1181/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whitenguyen" height="25" width="25" /></a>
